@@ -16,8 +16,7 @@
 title: BlogBarbosa
 email: gabriel.lemosbarbosa@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Oi! Eu sou o Gabriel, Desenvolvedor, analista, desenhista.
-  Não conserto impressoras.
+  Oi! Eu sou o Gabriel, Desenvolvedor, analista, e não conserto impressoras.
   Por enquanto é isso, bjo, me liga. 
   Bem vindo e bla bla bla :D
 baseurl: "" # the subpath of your site, e.g. /blog
