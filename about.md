@@ -4,12 +4,9 @@ title: Sobre mim
 permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Oi! Meu nome é **Gabriel Barbosa**, sou desenvolvedor, apaixonado de verdade por todo tipo de tecnologia, criatividade e arte.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Como desenvolvedor **back-end**, trabalho principalmente com as linguagens **Ruby** e **Python**, mas estou sempre estudando ferramentas utilizadas no **front-end** para atingir o status de desenvolvedor **full-stack**. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Atualmente estou graduando em **Sistemas de Computação** pela **Universidade Federal Fluminense**.
+
