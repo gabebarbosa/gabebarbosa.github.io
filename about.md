@@ -4,9 +4,28 @@ title: Sobre mim
 permalink: /sobre/
 ---
 
-Oi! Meu nome é **Gabriel Barbosa**, sou desenvolvedor, apaixonado de verdade por todo tipo de tecnologia, criatividade e arte.
+#### **Gabriel Barbosa**, Analista de Sistemas, Desenvolvedor Web, Programador Ruby
 
-Como desenvolvedor **back-end**, trabalho principalmente com as linguagens **Ruby** e **Python**, mas estou sempre estudando ferramentas utilizadas no **front-end** para atingir o status de desenvolvedor **full-stack**. 
+> Trabalho com tecnologia desde 2008, tenho experiência em desenvolvimento web, desktop, banco de dados, gestão de tecnologia da informação, consultoria em gestão empresarial e tecnologia em geral.
+>Graduando em **Sistemas de Computação** pela Universidade Federal Fluminense.
 
-Atualmente estou graduando em **Sistemas de Computação** pela **Universidade Federal Fluminense**.
+**Tecnologias**
 
+ `Ruby` 
+ `Ruby on Rails`
+ `Python`
+ `C#`
+
+ `Git`
+ `Heroku`
+
+ `HTML`
+ `CSS`
+ `Bootstrap`
+
+ `Postgresql`
+ `MySql`
+ `SqlServer`
+
+ `Linux`
+ `Windows`
