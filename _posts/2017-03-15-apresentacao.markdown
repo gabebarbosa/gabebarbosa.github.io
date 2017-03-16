@@ -8,4 +8,5 @@ Oi todo mundo, eu sou o **Gabriel Barbosa**.
 
 Aqui neste blog pretendo escrever sobre vários assuntos sobre `tecnologia`, dar algumas dicas e várias outras `coisas legais`.
 
-**Espero que gostem :D**
+>Vamos ver no que vai dar haha
+>Espero que gostem :D
