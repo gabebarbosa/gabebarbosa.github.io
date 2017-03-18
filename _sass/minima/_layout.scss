@@ -1,10 +1,18 @@
 /**
  * Site header
  */
+.img-pequena {
+  /*border-radius: 50%;*/
+  padding: 2px;
+  width: 40px;
+}
+
 .post-home-div{
   border: 1px solid #ecf0f1;
   border-top: 2px solid $tema-site;
   padding-left: 30px;
+  padding-top: 10px;
+  background-color: white;
 }
 
 .site-header {
