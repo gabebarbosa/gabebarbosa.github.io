@@ -4,7 +4,6 @@ layout: default
 
 <div class="home">
   <h1 class="page-heading">
-    <img class="img-pequena" src="https://image.flaticon.com/icons/svg/164/164949.svg">
     Postagens
   </h1>
   
@@ -17,7 +16,9 @@ layout: default
           <span class="post-meta">{{ post.date | date: "%d %b, %Y" }}</span>
 
           <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              <img class="img-pequena" src="{{ post.icon_adress | escape }}">
+              {{ post.title | escape }}</a>
           </h2>
         </div>
       </li>

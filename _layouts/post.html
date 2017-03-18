@@ -4,7 +4,10 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="post-home-div">
     <header class="post-header">
-      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+      <h1 class="post-title" itemprop="name headline">
+        <img class="img-pequena" src="{{ page.icon_adress | escape }}">
+        {{ page.title | escape }}
+      </h1>
       <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d %b, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
     </header>
 
