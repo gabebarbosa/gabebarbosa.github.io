@@ -1,6 +1,16 @@
 /**
  * Site header
  */
+.card-zoom{
+  transition-duration: 0.3s;
+  &:hover{
+  transform: scale(1.007,1.007);
+  transition-duration: 0.3s;
+  border: 1px solid $tema-site;
+  border-top: 2px solid $tema-site;
+  }
+}
+
 .img-pequena {
   /*border-radius: 50%;*/
   padding: 2px;
