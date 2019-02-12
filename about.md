@@ -4,24 +4,33 @@ title: Sobre mim
 permalink: /sobre/
 ---
 
-**Gabriel Barbosa**, Analista de Sistemas, Desenvolvedor Web, Programador Ruby
+**Gabriel Barbosa**, Desenvolvedor Web, Full-stack
 
-> Trabalho com tecnologia desde 2008, tenho experiência em desenvolvimento web, desktop, banco de dados, gestão de tecnologia da informação, consultoria em gestão empresarial e tecnologia em geral.
->Graduando em **Sistemas de Computação** pela Universidade Federal Fluminense.
+> Desenvolvedor web Full-stack, possuo conhecimento e experiência com diversas tecnologias tanto de back-end como de front-end. 
+> Sempre estudo novas tecnologias me aprimorando continuamente.
+
+> Entusiasta de metodologias ágeis, busco estudar e compartilhar conhecimento sobre agilidade e principalmente SCRUM com meus colegas através de treinamentos ou bate-papos. Tenho trabalhado como Scrum Master estudando cada vez mais este framework.
 
 **Tecnologias**
 
- `Ruby` 
- `Ruby on Rails`
  `Python`
  `C#`
-
+ `net core` 
+ `Ruby` 
+ `Ruby on Rails`
+ 
  `Git`
+ `SVN`
  `Heroku`
 
  `HTML`
  `CSS`
  `Bootstrap`
+
+ `JavaScript`
+ `TypeScript`
+ `AngularJS`
+ `Angular`
 
  `Postgresql`
  `MySql`
@@ -29,3 +38,4 @@ permalink: /sobre/
 
  `Linux`
  `Windows`
+ `MacOS`
