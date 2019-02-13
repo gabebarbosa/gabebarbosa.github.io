@@ -92,7 +92,7 @@ Focado no aceite ou rejeição do trabalho realizado. O resultado da Revisão da
 **Duração**: No máximo 3 horas.
 **Quem participa**: Time Scrum.
 
-Este foi um breve resumo sobre SCRUM, futuramente teremos novos posts com mais detalhes e entrando em novos assuntos como: timeboxing, cases, scrum de scrum, valores certificações e etc.
+Este foi um breve resumo sobre SCRUM, futuramente teremos novos posts com mais detalhes e entrando em novos assuntos como: timeboxing, cases, scrum de scrum, valores, certificações e etc.
 
 > Espero que tenham gostado :D
 
