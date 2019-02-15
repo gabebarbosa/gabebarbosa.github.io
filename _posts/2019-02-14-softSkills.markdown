@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Soft skills - Habilidades desejadas no mundo da tecnologia"
+title:  "Soft skills"
 date:   2019-02-14 18:45:14 -0300
 categories: jekyll update
 icon_adress: https://image.flaticon.com/icons/svg/1006/1006004.svg
