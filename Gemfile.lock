@@ -3,8 +3,17 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    autoprefixer-rails (9.8.5)
+      execjs
+    bootstrap (4.0.0)
+      autoprefixer-rails (>= 6.0.3)
+      popper_js (>= 1.12.9, < 2)
+      sass (>= 3.5.2)
     colorator (1.1.0)
+    concurrent-ruby (1.1.6)
+    execjs (2.7.0)
     ffi (1.13.1)
+    ffi (1.13.1-x64-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.6.3)
       addressable (~> 2.4)
@@ -33,6 +42,7 @@ GEM
       jekyll (~> 3.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    popper_js (1.16.0)
     public_suffix (4.0.5)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
@@ -44,18 +54,24 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    tzinfo (2.0.2)
+      concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2020.1)
+      tzinfo (>= 1.0.0)
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
+  bootstrap (~> 4.0.0)
   jekyll (>= 3.6.3)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.6.5p114
 
 BUNDLED WITH
-   1.14.6
+   1.17.2
