@@ -16,10 +16,10 @@
 title: GabeBarbosa
 email: gabriel.lemosbarbosa@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Oi, bem-vindo! Eu sou o Gabriel, Desenvolvedor, analista, e não conserto impressoras.
+  Gabriel L. Barbosa, Desenvolvedor web full-stack.    
   Site feito com Jekyll :D
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://gabebarbosa.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gabebarbosa
 github_username:  gabebarbosa
 
