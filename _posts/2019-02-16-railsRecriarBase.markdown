@@ -4,6 +4,7 @@ title:  "Dica Ruby on Rails - Recriando a base"
 date:   2019-02-16 18:45:14 -0300
 categories: jekyll update
 icon_adress: https://image.flaticon.com/icons/svg/919/919842.svg
+comments_url: http://gabebarbosa.com.br/jekyll/update/2019/02/16/railsRecriarBase.html
 ---
 Oi todo mundo, eu sou o **Gabriel Barbosa**.
 

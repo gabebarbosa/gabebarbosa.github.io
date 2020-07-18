@@ -4,6 +4,7 @@ title:  "Um pouco sobre SCRUM"
 date:   2019-02-13 18:45:14 -0300
 categories: jekyll update
 icon_adress: https://image.flaticon.com/icons/svg/1452/1452067.svg
+comments_url: http://gabebarbosa.com.br/jekyll/update/2019/02/13/papoSobreScrum.html
 ---
 Oi todo mundo, eu sou o **Gabriel Barbosa** e hoje vou passar um pouco de conteúdo sobre SCRUM, o framework ágil mais utilizado no mundo.
 
