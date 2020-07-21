@@ -39,3 +39,5 @@ Neste vídeo, além de um bom conteúdo sobre o assunto também temos alguns exe
 
 
 Caso você já esteja fera na lógica de programação, aguarde as futuras postagens, elas ficarão linkadas aqui e vamos entrar em detalhes de carreira de dev front-end, back-end e full-stack.
+
+**Carreira web dev #2 - Qual área de desenvolvimento web escolher?** [clique aqui](http://gabebarbosa.com.br/jekyll/update/2020/07/21/carreiraWebDevQualAreaEscolher.html)

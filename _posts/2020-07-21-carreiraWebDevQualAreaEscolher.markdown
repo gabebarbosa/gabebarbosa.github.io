@@ -9,7 +9,7 @@ comments_url: http://gabebarbosa.com.br/jekyll/update/2020/07/21/carreiraWebDevQ
 
 Olá, eu sou **Gabriel Barbosa**, web dev full-stack. No post anterior falamos da base de conhecimento importante que um desenvolvedor web deve estudar. Agora vamos falar das diferentes **carreiras na área**. Vou dar algumas dicas que poderá ajudar você a escolher qual área de desenvolvimento você irá atuar, **front-end**, **back-end** ou **full-stack**.
 
-**Post anterior**: Carreira web dev #1 - Por onde começar? (clique aqui) [link]
+**Post anterior**: Carreira web dev #1 - Por onde começar? [clique aqui](http://gabebarbosa.com.br/jekyll/update/2020/07/18/carreiraWebDevPorOndeComecar.html)
 
 Primeiramente gostaria de sugerir que **inicie no front-end ou no back-end**, visto que o full-stack é uma “fusão” das duas áreas, e mesmo que se identifique e escolha se tornar um full-stack, aconselho que se **especialize primeiro** em uma das duas áreas base e depois passe a estudar a outra, se tornando um full-stack.
 
