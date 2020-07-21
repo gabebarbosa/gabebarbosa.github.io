@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Carreira web dev #2 - Qual área de desenvolvimento web escolher?"
-date:   2020-07-21 13:20:14 -0300
+date:   2020-07-21 12:21:14 -0300
 categories: jekyll update
 icon_adress: https://image.flaticon.com/icons/svg/1006/1006004.svg
 comments_url: http://gabebarbosa.com.br/jekyll/update/2020/07/21/carreiraWebDevQualAreaEscolher.html
