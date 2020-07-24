@@ -149,7 +149,7 @@ https://www.sympla.com.br/workshop-front-end-com-reactjs-no-mundo-real__704979 <
 
 <hr>
 <h4 class="page-heading text-left">
-    Prémios
+    Prêmios
 </h4>
 <div class="cv-home-div pl-1 mb-3">
     <p class="post-link mb-0">
