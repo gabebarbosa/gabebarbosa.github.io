@@ -11,6 +11,12 @@
   }
 }
 
+.body-100 {
+    height: 100%;
+    width: 100%;
+    background-color: $tema-site-background;
+}
+
 .img-pequena {
   /*border-radius: 50%;*/
   padding: 2px;
@@ -26,10 +32,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 20%;
+  width: 40%;
   border-radius: 50%;
-
-  margin-top: -15%;
 }
 
 .post-home-div{
@@ -211,6 +215,14 @@
   background-color: $tema-site-background;
 }
 
+.border-none {
+  border: none !important;
+}
+
+.gambiarra-borda-div-com-cor {
+  border: 8px solid $tema-site-background;
+}
+
 .side-card {
   height: 100%;
 }
@@ -221,12 +233,7 @@
 }
 
 .page-heading-h1 {
-  font-size: 40px;
-  color: $tema-site;
-}
-
-.page-heading-h1 {
-  font-size: 40px;
+  font-size: 25px;
   color: $tema-site;
 }
 

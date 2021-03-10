@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html class="body-100" lang="{{ page.lang | default: site.lang | default: "en" }}">
 <div>
   {% include head.html %}
 
-  <body>
+
+  <body class="body-100">
 
     <div id="fb-root"></div>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v7.0&appId=288165262454193&autoLogAppEvents=1" nonce="yRSQm7K6"></script>
-
-
     {% include header.html %}
 
-    <main class="page-content" aria-label="Content">
+    <main class="page-content pt-2 pb-2" aria-label="Content">
       <div>
+        <!-- <img class="img-bg mt-0 pt-0" src="https://i.ibb.co/GVxXMN8/bg.jpg" alt="gabriel barbosa workshop"> -->
         {{ content }}
       </div>
     </main>
 
-    {% include footer.html %}
+
 
   </body>
 

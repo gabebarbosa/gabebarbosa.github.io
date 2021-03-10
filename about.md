@@ -3,6 +3,8 @@ layout: page
 # title: Sobre mim
 permalink: /sobre/
 ---
+<div class="text-white bg-dark">
+<div class="card-body">
 <img class="card-img-top" src="https://i.ibb.co/GVxXMN8/bg.jpg" alt="gabriel barbosa workshop">
 
 <p class="page-heading-h1">Gabriel Barbosa</p>
@@ -192,4 +194,7 @@ Idiomas
         Espanhol
     </p>
     <span class="post-meta pr-2">Avançado</span>
+</div>
+
+</div>
 </div>
